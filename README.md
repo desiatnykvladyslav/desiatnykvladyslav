@@ -7,16 +7,25 @@
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
-🚀 Dev & Visionary
-- 🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript
-- 😴 Designing smart sleep tech (light-therapy masks & circadian glasses)
-- 💧 Prototyping immersive GHZ-water therapy spa concepts
-👯 Looking to Collaborate On
-- 🧠 Mindful tech (tools that reduce digital noise)
-- 🏔️ Nature-inspired UX (ambient sound engines, "digital cabins")
-- ⚡ Biohacking startups (sleep/light/sound science)
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/ca/3c/50/ca3c501ffec4b4addda08579194b2f99.jpg"  />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <h2>🚀 Dev & Visionary</h2>
+    <ul>
+      <li>🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript</li>
+      <li>😴 Designing smart sleep tech (light-therapy masks & circadian glasses)</li>
+      <li>💧 Prototyping immersive GHZ-water therapy spa concepts</li>
+    </ul>
+    
+    <h2>👯 Looking to Collaborate On</h2>
+    <ul>
+      <li>🧠 Mindful tech (tools that reduce digital noise)</li>
+      <li>🏔️ Nature-inspired UX (ambient sound engines, "digital cabins")</li>
+      <li>⚡ Biohacking startups (sleep/light/sound science)</li>
+    </ul>
+  </div>
+  
+  <img src="https://i.pinimg.com/736x/ca/3c/50/ca3c501ffec4b4addda08579194b2f99.jpg" height="150" alt="Mountain illustration" style="margin-left: auto;" />
+</div>
 
 ###
 
