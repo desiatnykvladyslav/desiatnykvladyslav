@@ -7,7 +7,7 @@
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
-<div align="center">
+<div align="center" style="display: flex">
   <div>
     <h2>🚀 Dev & Visionary</h2>
     <ul>
