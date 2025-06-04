@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**desiatnykvladyslav/desiatnykvladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🚀 Dev & Visionary
 🔭 Currently Working On
 - 🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript
@@ -22,4 +17,3 @@ Here are some ideas to get you started:
 - ⚙️ Low-level sensor programming for wearables
 - 🧪 Spa-tech R&D (GHZ frequencies + mineral water systems)
 - 🎨 Designers who vibe with "cozy mountains + deep focus" aesthetic
--->
