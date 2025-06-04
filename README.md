@@ -7,7 +7,7 @@
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 24px;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 24px;">
   <div style="flex: 1;">
     <h2>🚀 Dev & Visionary</h2>
     <ul>
