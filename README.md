@@ -19,7 +19,7 @@
       <li>⚡ Biohacking startups (sleep/light/sound science)</li>
     </ul>
   </div>
-    <img src="https://i.pinimg.com/736x/ca/3c/50/ca3c501ffec4b4addda08579194b2f99.jpg" height="150" alt="Mountain illustration"style="display: inline-block;"/>
+    <img src="https://i.pinimg.com/736x/80/f4/29/80f4297787ceb89111962a3d51363277.jpg" width="100%" alt="Mountain illustration"style="display: flex-end;"/>
 </div>
 
 ###
