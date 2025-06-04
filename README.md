@@ -19,18 +19,8 @@
       <li>⚡ Biohacking startups (sleep/light/sound science)</li>
     </ul>
   </div>
-    <img src="https://i.pinimg.com/736x/80/f4/29/80f4297787ceb89111962a3d51363277.jpg" width="100%" alt="Mountain illustration"style="display: flex-end;"/>
+    <img src="https://i.pinimg.com/736x/56/6a/ea/566aea5f2f0fae959bad10b29cdaae33.jpg" width="100%" alt="Mountain illustration"style="display: flex-end;"/>
 </div>
-
-###
-
-<br clear="both">
-
-###
-
-<br clear="both">
-
-###
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
