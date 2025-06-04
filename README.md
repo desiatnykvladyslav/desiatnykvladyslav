@@ -14,11 +14,7 @@
       <li>🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript</li>
       <li>😴 Designing smart sleep tech (light-therapy masks & circadian glasses)</li>
       <li>💧 Prototyping immersive GHZ-water therapy spa concepts</li>
-    </ul>
-    
-    <h2>👯 Looking to Collaborate On</h2>
-    <ul>
-      <li>🧠 Mindful tech (tools that reduce digital noise)</li>
+	  <li>🧠 Mindful tech (tools that reduce digital noise)</li>
       <li>🏔️ Nature-inspired UX (ambient sound engines, "digital cabins")</li>
       <li>⚡ Biohacking startups (sleep/light/sound science)</li>
     </ul>
