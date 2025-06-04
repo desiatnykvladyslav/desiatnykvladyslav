@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desiatnykvladyslav&" alt="desiatnykvladyslav" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desiatnykvladyslav&theme=dracula" alt="desiatnykvladyslav" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desiatnykvladyslav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -8,7 +8,6 @@
 <p>A fullstack developer from Ukraine.</p>
 
 🚀 Dev & Visionary
-🔭 Currently Working On
 - 🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript
 - 😴 Designing smart sleep tech (light-therapy masks & circadian glasses)
 - 💧 Prototyping immersive GHZ-water therapy spa concepts
@@ -22,12 +21,6 @@
 ###
 
 <br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake.svg" />
-</picture>
 
 ###
 
@@ -62,3 +55,9 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/desiatnykvladyslav/desiatnykvladyslav/output/github-snake.svg" />
+</picture>
