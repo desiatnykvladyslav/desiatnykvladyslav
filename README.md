@@ -7,10 +7,10 @@
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
-<!-- Используем таблицу для выравнивания текста и картинки по одной линии -->
-<table>
+<!-- Невидимая таблица с выравниванием картинки по центру -->
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td valign="top" style="min-width:320px;">
+    <td valign="top" style="min-width:320px; border:none;">
       <h2>🚀 Dev & Visionary</h2>
       <ul>
         <li>🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript</li>
@@ -21,11 +21,15 @@
         <li>⚡ Biohacking startups (sleep/light/sound science)</li>
       </ul>
     </td>
-    <td valign="top" align="right">
+    <td valign="top" align="center" style="border:none;">
       <img src="https://i.pinimg.com/736x/ca/3c/50/ca3c501ffec4b4addda08579194b2f99.jpg" height="150" alt="Mountain illustration" />
     </td>
   </tr>
 </table>
+
+###
+
+<br clear="both">
 
 ###
 
