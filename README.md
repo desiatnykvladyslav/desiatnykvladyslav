@@ -7,8 +7,8 @@
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 24px;">
-  <div style="flex: 1;">
+<div align="center">
+  <div>
     <h2>🚀 Dev & Visionary</h2>
     <ul>
       <li>🌿 Building a minimalist productivity core (Notion/Obsidian alternative) with Next.js + TypeScript</li>
@@ -19,9 +19,7 @@
       <li>⚡ Biohacking startups (sleep/light/sound science)</li>
     </ul>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; min-width: 170px;">
     <img src="https://i.pinimg.com/736x/ca/3c/50/ca3c501ffec4b4addda08579194b2f99.jpg" height="150" alt="Mountain illustration" />
-  </div>
 </div>
 
 ###
