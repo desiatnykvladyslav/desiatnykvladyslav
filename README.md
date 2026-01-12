@@ -1,9 +1,3 @@
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desiatnykvladyslav&theme=dracula" alt="desiatnykvladyslav" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desiatnykvladyslav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 <h1>Hi 👋, I'm Vlad</h1>
 <p>A fullstack developer from Ukraine.</p>
 
